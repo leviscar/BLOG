@@ -1,9 +1,2 @@
-# leviscar's blog
-## intro
-I am a front-end engineer. this is my blog. Thanks
+# Welcome To Leviscar's BLOG
 
-## focus
-- css
-- js
-- nodejs
-- webgl
